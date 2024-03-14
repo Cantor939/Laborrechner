@@ -1,1 +1,1 @@
-# Labtorrechner
+# Laborrechner
